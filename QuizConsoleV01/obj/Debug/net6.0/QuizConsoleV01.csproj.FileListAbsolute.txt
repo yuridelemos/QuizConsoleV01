@@ -1,0 +1,15 @@
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\bin\Debug\net6.0\QuizConsoleV01.exe
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\bin\Debug\net6.0\QuizConsoleV01.deps.json
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\bin\Debug\net6.0\QuizConsoleV01.runtimeconfig.json
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\bin\Debug\net6.0\QuizConsoleV01.dll
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\bin\Debug\net6.0\QuizConsoleV01.pdb
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.csproj.AssemblyReference.cache
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.AssemblyInfoInputs.cache
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.AssemblyInfo.cs
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.csproj.CoreCompileInputs.cache
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.dll
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\refint\QuizConsoleV01.dll
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.pdb
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\QuizConsoleV01.genruntimeconfig.cache
+C:\Users\Yuri\Desktop\C#\Testes\QuizConsoleV01\QuizConsoleV01\obj\Debug\net6.0\ref\QuizConsoleV01.dll
